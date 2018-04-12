@@ -1,0 +1,15 @@
+{
+  "name": "cutblank",
+  "version": "1.0.0",
+  "description": "Cut blanks in the text",
+  "main": "cutblank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cutblank-ts"
+  },
+  "author": "ashiato45",
+  "license": "ISC"
+}
