@@ -1,2 +1,2 @@
 # Redundant Space Remover
-A tool to remove redundant spaces and hypones at line breaks.      
+A tool to remove redundant spaces and hyphens at line breaks.      
